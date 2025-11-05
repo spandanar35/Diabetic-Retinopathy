@@ -40,7 +40,7 @@ Diabetic Retinopathy Detection is a deep learning-based web application designed
 
 # Installation
 
-1.Clone the repository: git clone https://github.com/your-username/diabetic-retinopathy-detection.git
+1.Clone the repository: git clone https://github.com/spandanar35/Diabetic-Retinopathy.git
 
 2.Navigate to the project folder: cd diabetic-retinopathy-detection
 
